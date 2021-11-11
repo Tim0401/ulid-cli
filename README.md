@@ -12,7 +12,7 @@ go install github.com/Tim0401/ulid-cli/cmd/ulid-cli@{version}
 
 ## Usage
 
-string->byte
+string->byte  
 ex) 01FM73V2R6A8G3T20KQ9SQDM6D
 ```
 ulid-cli -sb ${ULID}
