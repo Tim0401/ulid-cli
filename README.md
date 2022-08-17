@@ -7,7 +7,7 @@ Interconversion between ULID strings and [16]bytes.
 ## Install
 
 ```
-go install github.com/Tim0401/ulid-cli/cmd/ulid-cli@{version}
+go install github.com/Tim0401/ulid-cli/cmd/ulid-cli@latest
 ```
 
 ## Usage
